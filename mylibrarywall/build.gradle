@@ -32,7 +32,7 @@ project.afterEvaluate {
                 //your package name like com.example.mylibrary
                 setGroupId 'com.example'
                 setArtifactId 'mylibrarywall'
-                version '1.0.1'             //libraray version
+                version '1.0.4'             //libraray version
                 artifact bundleReleaseAar   //if will create arr artifact file for maven
             }
         }
