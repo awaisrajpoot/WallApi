@@ -1,4 +1,4 @@
-package com.example.mylibrarywall;
+package com.example.librarywall;
 
 public class AppConstants {
 

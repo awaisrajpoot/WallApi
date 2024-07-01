@@ -1,4 +1,4 @@
-package com.example.mylibrarywall;
+package com.example.librarywall;
 
 import android.content.Context;
 

@@ -20,8 +20,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 }
 
@@ -32,7 +32,7 @@ project.afterEvaluate {
                 //your package name like com.example.mylibrary
                 setGroupId 'com.example'
                 setArtifactId 'mylibrarywall'
-                version '1.0.4'             //libraray version
+                version '1.0.5'             //libraray version
                 artifact bundleReleaseAar   //if will create arr artifact file for maven
             }
         }

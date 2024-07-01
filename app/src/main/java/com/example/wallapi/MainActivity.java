@@ -9,8 +9,8 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.example.mylibrarywall.AppConstants;
-import com.example.mylibrarywall.WallpaperStarter;
+import com.example.librarywall.AppConstants;
+import com.example.librarywall.WallpaperStarter;
 
 import java.util.ArrayList;
 
